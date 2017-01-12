@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mode">
+        <item name="client">Client</item>
+        <item name="server">Server</item>
+        <item name="none">None</item>
+    </string-array>
+</resources>
